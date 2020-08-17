@@ -45,9 +45,6 @@ int main ()
 					std::cout<<"Sayin "<<isim<<";\n";
 					cout << ekur << " Kur degerinden " << tl << " Tl aldiniz.\n";
 					cout << euro << " Euro verdiniz.\n";
-					//kalan = para-(euro*3.98) ;
-					//cout << euro << " Euro verdiniz \n"<< ekur <<" kur uzerinden " << tl << " Tl aldiniz\n";					
-					//cout << kalan << " Tl paraustu aldiniz";
 				}
 				if(1000 < euro && euro <= 5000)
 				{
@@ -56,8 +53,6 @@ int main ()
 					std::cout<<"Sayin "<<isim<<";\n";
 					cout << ekur << " Kur degerinden " << tl << " Tl aldiniz.\n";
 					cout << euro << " Euro verdiniz.\n";
-					//std::cout<<isim<<" Bey;\n";
-					//cout << euro << " Euro verdiniz \n"<< ekur <<" kur uzerinden " << tl << " Tl aldiniz\n";
 				}				
 				if(euro > 5000)
 				{
@@ -66,8 +61,6 @@ int main ()
 					std::cout<<"Sayin "<<isim<<";\n";
 					cout << ekur << " Kur degerinden " << tl << " Tl aldiniz.\n";
 					cout << euro << " Euro verdiniz.\n";
-					//std::cout<<isim<<" Bey;\n";
-					//cout << euro << " Euro verdiniz \n"<< ekur <<" kur uzerinden " << tl << " Tl aldiniz\n";
 				}					
 			}
 			
@@ -85,10 +78,6 @@ int main ()
 					std::cout<<"Sayin "<<isim<<";\n";
 					cout << ekur << " Kur degerinden " << tl << " Tl aldiniz.\n";
 					cout << dolar << " Dolar verdiniz.\n";
-					//kalan = para-(euro*3.98) ;
-					//std::cout<<isim<<" Bey;\n";
-					//cout << dolar << " Dolar verdiniz \n"<< ekur <<" kur uzerinden " << tl << " Tl aldiniz\n";
-					//cout << kalan << " Tl paraustu aldiniz";
 				}
 				if(1000 < dolar && dolar <= 5000)
 				{
@@ -97,8 +86,6 @@ int main ()
 					std::cout<<"Sayin "<<isim<<";\n";
 					cout << ekur << " Kur degerinden " << tl << " Tl aldiniz.\n";
 					cout << dolar << " Dolar verdiniz.\n";
-					//std::cout<<isim<<" Bey;\n";
-					//cout << dolar << " Dolar verdiniz \n"<< ekur <<" kur uzerinden " << tl << " Tl aldiniz\n";
 				}				
 				if(dolar > 5000)
 				{
@@ -107,8 +94,6 @@ int main ()
 					std::cout<<"Sayin "<<isim<<";\n";
 					cout << ekur << " Kur degerinden " << tl << " Tl aldiniz.\n";
 					cout << dolar << " Dolar verdiniz.\n";					
-					//std::cout<<isim<<" Bey;\n";
-					//cout << dolar << " Dolar verdiniz \n"<< ekur <<" kur uzerinden " << tl << " Tl aldiniz\n";
 				}					
 			}
 			
@@ -127,9 +112,6 @@ int main ()
 					cout << ekur << " Kur degerinden " << tl << " Tl aldiniz.\n";
 					cout << sterlin << " Sterlin verdiniz.\n";
 					//kalan = para-(euro*3.98) ;
-					//std::cout<<isim<<" Bey;\n";
-					//cout << sterlin << " Sterlin verdiniz \n"<< ekur <<" kur uzerinden " << tl << " Tl aldiniz\n";
-					//cout << kalan << " Tl paraustu aldiniz";
 				}
 				if(1000 < sterlin && sterlin <= 5000)
 				{
@@ -138,8 +120,6 @@ int main ()
 					std::cout<<"Sayin "<<isim<<";\n";
 					cout << ekur << " Kur degerinden " << tl << " Tl aldiniz.\n";
 					cout << sterlin << " Sterlin verdiniz.\n";
-					//std::cout<<isim<<" Bey;\n";
-					//cout << sterlin << " Sterlin verdiniz \n"<< ekur <<" kur uzerinden " << tl << " Tl aldiniz\n";
 				}				
 				if(sterlin > 5000)
 				{
@@ -148,8 +128,6 @@ int main ()
 					std::cout<<"Sayin "<<isim<<";\n";
 					cout << ekur << " Kur degerinden " << tl << " Tl aldiniz.\n";
 					cout << sterlin << " Sterlin verdiniz.\n";
-					//std::cout<<isim<<" Bey;\n";
-					//cout << sterlin << " Sterlin verdiniz \n"<< ekur <<" kur uzerinden " << tl << " Tl aldiniz\n";
 				}					
 			}
 			
@@ -167,10 +145,6 @@ int main ()
 					std::cout<<"Sayin "<<isim<<";\n";
 					cout << ekur << " Kur degerinden " << tl << " Tl aldiniz.\n";
 					cout << frank << " Frank verdiniz.\n";					
-					//kalan = para-(euro*3.98) ;
-					//std::cout<<isim<<" Bey;\n";
-					//cout << frank << " Frank verdiniz \n"<< ekur <<" kur uzerinden " << tl << " Tl aldiniz\n";
-					//cout << kalan << " Tl paraustu aldiniz";
 				}
 				if(1000 < frank && frank <= 5000)
 				{
@@ -179,8 +153,6 @@ int main ()
 					std::cout<<"Sayin "<<isim<<";\n";
 					cout << ekur << " Kur degerinden " << tl << " Tl aldiniz.\n";
 					cout << frank << " Frank verdiniz.\n";
-					//std::cout<<isim<<" Bey;\n";
-					//cout << frank << " Frank verdiniz \n"<< ekur <<" kur uzerinden " << tl << " Tl aldiniz\n";
 				}				
 				if(frank > 5000)
 				{
@@ -189,8 +161,6 @@ int main ()
 					std::cout<<"Sayin "<<isim<<";\n";
 					cout << ekur << " Kur degerinden " << tl << " Tl aldiniz.\n";
 					cout << frank << " Frank verdiniz.\n";
-					//std::cout<<isim<<" Bey;\n";
-					//cout << frank << " Frank verdiniz \n"<< ekur <<" kur uzerinden " << tl << " Tl aldiniz\n";
 				}					
 			}
 
@@ -218,10 +188,6 @@ int main ()
 					std::cout<<"Sayin "<<isim<<";\n";
 					cout << ekur << " Kur degerinden " << euro << " Euro aldiniz.\n";
 					cout << tl << " Tl verdiniz.\n";					
-					//kalan = para-(euro*3.98) ;
-					//std::cout<<isim<<" Bey;\n";
-					//cout << para << " Tl verdiniz \n"<< ekur <<" kur uzerinden " << euro << " Euro aldiniz\n";
-					//cout << kalan << " Tl paraustu aldiniz";
 				}
 				if(1000 < tl && tl <= 5000)
 				{
@@ -229,11 +195,7 @@ int main ()
 					ekur=3.89;
 					std::cout<<"Sayin "<<isim<<";\n";
 					cout << ekur << " Kur degerinden " << euro << " Euro aldiniz.\n";
-					cout << tl << " Tl verdiniz.\n";
-					//kalan = para-(euro*3.89) ;
-					//std::cout<<isim<<" Bey;\n";
-					//cout << para << " Tl verdiniz \n"<< ekur <<" kur uzerinden " << euro << " Euro aldiniz\n";
-					//cout << kalan << " Tl paraustu aldiniz";					
+					cout << tl << " Tl verdiniz.\n";				
 				}
 				if(tl > 5000)
 				{
@@ -242,10 +204,6 @@ int main ()
 					std::cout<<"Sayin "<<isim<<";\n";
 					cout << ekur << " Kur degerinden " << euro << " Euro aldiniz.\n";
 					cout << tl << " Tl verdiniz.\n";
-					//kalan = para-(euro*3.92) ;
-					//std::cout<<isim<<" Bey;\n";
-					//cout << para << " Tl verdiniz \n"<< ekur <<" kur uzerinden " << euro << " Euro aldiniz\n";
-					//cout << kalan << " Tl paraustu aldiniz";
 				}
 		    }		    
 		    
@@ -263,10 +221,6 @@ int main ()
 					std::cout<<"Sayin "<<isim<<";\n";
 					cout << ekur << " Kur degerinden " << dolar << " Dolar aldiniz.\n";
 					cout << tl << " Tl verdiniz.\n";
-					//kalan = para-(euro*3.68) ;
-					//std::cout<<isim<<" Bey;\n";
-					//cout << para << " Tl verdiniz \n"<< ekur <<" kur uzerinden " << dolar << " Dolar aldiniz\n";
-					//cout << kalan << " Tl paraustu aldiniz";
 				}
 				if(1000 < tl && tl <= 5000)
 				{
@@ -274,11 +228,7 @@ int main ()
 					ekur=3.63;
 					std::cout<<"Sayin "<<isim<<";\n";
 					cout << ekur << " Kur degerinden " << dolar << " Dolar aldiniz.\n";
-					cout << tl << " Tl verdiniz.\n";
-					//kalan = para-(euro*3.63) ;
-					//std::cout<<isim<<" Bey;\n";
-					//cout << para << " Tl verdiniz \n"<< ekur <<" kur uzerinden " << dolar << " Dolar aldiniz\n";
-					//cout << kalan << " Tl paraustu aldiniz";					
+					cout << tl << " Tl verdiniz.\n";					
 				}
 				if(tl > 5000)
 				{
@@ -286,11 +236,7 @@ int main ()
 					ekur=3.62;
 					std::cout<<"Sayin "<<isim<<";\n";
 					cout << ekur << " Kur degerinden " << dolar << " Dolar aldiniz.\n";
-					cout << tl << " Tl verdiniz.\n";
-					//kalan = para-(euro*3.62) ;
-					//std::cout<<isim<<" Bey;\n";
-					//cout << para << " Tl verdiniz \n"<< ekur <<" kur uzerinden " << dolar << " Dolar aldiniz\n";
-					//cout << kalan << " Tl paraustu aldiniz";		    	
+					cout << tl << " Tl verdiniz.\n";	    	
 		    	}
 		    	
 			}
@@ -309,10 +255,6 @@ int main ()
 					std::cout<<"Sayin "<<isim<<";\n";
 					cout << ekur << " Kur degerinden " << sterlin << " Sterlin aldiniz.\n";
 					cout << tl << " Tl verdiniz.\n";
-					//kalan = para-(euro*4.7) ;
-					//std::cout<<isim<<" Bey;\n";
-					//cout << para << " Tl verdiniz \n"<< ekur <<" kur uzerinden " << sterlin << " Sterlin aldiniz\n";
-					//cout << kalan << " Tl paraustu aldiniz";
 				}
 				if(1000 < tl && tl <= 5000)
 				{
@@ -320,11 +262,7 @@ int main ()
 					ekur=4.66;
 					std::cout<<"Sayin "<<isim<<";\n";
 					cout << ekur << " Kur degerinden " << sterlin << " Sterlin aldiniz.\n";
-					cout << tl << " Tl verdiniz.\n";
-					//kalan = para-(sterlin*4.66);
-					//std::cout<<isim<<" Bey;\n";
-					//cout << para << " Tl verdiniz \n"<< ekur <<" kur uzerinden " << sterlin << " Sterlin aldiniz\n";
-					//cout << kalan << " Tl paraustu aldiniz";					
+					cout << tl << " Tl verdiniz.\n";					
 				}
 				if(tl > 5000)
 				{
@@ -332,11 +270,7 @@ int main ()
 					ekur = 4.62;
 					std::cout<<"Sayin "<<isim<<";\n";
 					cout << ekur << " Kur degerinden " << sterlin << " Sterlin aldiniz.\n";
-					cout << tl << " Tl verdiniz.\n";
-					//kalan = para-(sterlin*4.62) ;
-					//std::cout<<isim<<" Bey;\n";
-					//cout << para << " Tl verdiniz \n"<< ekur <<" kur uzerinden " << sterlin << " Sterlin aldiniz\n";
-					//cout << kalan << " Tl paraustu aldiniz";		    	
+					cout << tl << " Tl verdiniz.\n";		    	
 		    	}
 		    	
 			}
@@ -355,10 +289,6 @@ int main ()
 					std::cout<<"Sayin "<<isim<<";\n";
 					cout << ekur << " Kur degerinden " << frank << " Frank aldiniz.\n";
 					cout << tl << " Tl verdiniz.\n";
-					//kalan = para-(frank*3.75) ;
-					//std::cout<<isim<<" Bey;\n";
-					//cout << para << " Tl verdiniz \n"<< ekur <<" kur uzerinden " << frank << " Frank aldiniz\n";
-					//cout << kalan << " Tl paraustu aldiniz";
 				}
 				if(1000 < tl && tl <= 5000)
 				{
@@ -366,11 +296,7 @@ int main ()
 					ekur=3.7;
 					std::cout<<"Sayin "<<isim<<";\n";
 					cout << ekur << " Kur degerinden " << frank << " Frank aldiniz.\n";
-					cout << tl << " Tl verdiniz.\n";
-					//kalan = para-(frank*3.7);
-					//std::cout<<isim<<" Bey;\n";
-					//cout << para << " Tl verdiniz \n"<< ekur <<" kur uzerinden " << frank << " Frank aldiniz\n";
-					//cout << kalan << " Tl paraustu aldiniz";					
+					cout << tl << " Tl verdiniz.\n";					
 				}
 				if(tl > 5000)
 				{
@@ -378,11 +304,7 @@ int main ()
 					ekur = 3.69;
 					std::cout<<"Sayin "<<isim<<";\n";
 					cout << ekur << " Kur degerinden " << frank << " Frank aldiniz.\n";
-					cout << tl << " Tl verdiniz.\n";
-					//kalan = para-(frank*3.69) ;
-					//std::cout<<isim<<" Bey;\n";
-					//cout << para << " Tl verdiniz \n"<< ekur <<" kur uzerinden " << frank << " Frank aldiniz\n";
-					//cout << kalan << " Tl paraustu aldiniz";		    	
+					cout << tl << " Tl verdiniz.\n";		    	
 		    	}
 		    	
 			}
